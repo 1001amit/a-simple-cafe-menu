@@ -14,3 +14,4 @@ A simple and static website displaying a café menu. Users can view the menu ite
    ```bash
    git clone https://github.com/1001amit/a-simple-cafe-menu.git
    
+![screenshot](<cafe menu.png>)
